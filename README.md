@@ -16,43 +16,43 @@ II - Estrutura do Projeto
    O trabalho inicial envolveu uma exploração preliminar do conjunto de dados para entender suas características gerais e identificar possíveis problemas.    
    Nesta etapa foram realizadas as seguintes atividades:
     
-'''- Cálculo de estatísticas descritivas das variáveis;
-   - Detecção de dados ausentes ou inconsistentes.'''
+   - Cálculo de estatísticas descritivas das variáveis;
+   - Detecção de dados ausentes ou inconsistentes.
     
   *2. Análise Exploratória
   
    Com foco em aprofundar a compreensão das relações entre as variáveis, realizou-se uma análise exploratória. 
    O objetivo foi detectar correlações e padrões que pudessem auxiliar no desenvolvimento do modelo. As ações realizadas incluíram:
 
-'''- Análise das correlações entre os investimentos e o retorno de vendas;
-   - Criação de gráficos de dispersão para identificar possíveis relações lineares entre as variáveis.'''
+   - Análise das correlações entre os investimentos e o retorno de vendas;
+   - Criação de gráficos de dispersão para identificar possíveis relações lineares entre as variáveis.
       
   *3. Modelagem
   
    Nesta fase, o modelo de regressão foi desenvolvido para prever os retornos de vendas com base nos investimentos em publicidade. 
    As atividades principais incluíram:
 
-'''- Divisão do conjunto de dados em partes de treinamento e teste;
+   - Divisão do conjunto de dados em partes de treinamento e teste;
    - Desenvolvimento e treinamento de um modelo de regressão linear;
-   - Avaliação do modelo utilizando métricas de desempenho adequadas.'''
+   - Avaliação do modelo utilizando métricas de desempenho adequadas.
      
  *4. Predição
  
   Com o modelo finalizado, utilizou-se novos dados para realizar previsões e avaliar a precisão do modelo.
   As ações desenvolvidas nesta etapa incluíram:
 
-'''- Estimativa do retorno em vendas para diferentes níveis de investimento;
-   - Cálculo de métricas de desempenho, como RMSE (Erro Quadrático Médio da Raiz) e R² (Coeficiente de Determinação).'''
+   - Estimativa do retorno em vendas para diferentes níveis de investimento;
+   - Cálculo de métricas de desempenho, como RMSE (Erro Quadrático Médio da Raiz) e R² (Coeficiente de Determinação).
 
 III - Requisitos
 
   Para reproduzir o projeto, é necessário:
 
-'''- Python 3.x
+   - Python 3.x
    - Jupyter Notebook
    - Instalar as seguintes bibliotecas:
    - pandas
    - numpy
    - matplotlib
    - seaborn
-   - scikit-learn'''
+   - scikit-learn
