@@ -1,6 +1,8 @@
 # Construção de um Modelo de Regressão para Marketing
+
 I - Contexto
-Este projeto foi elaborado como parte de um desafio no curso de Formação em Ciência de Dados, com o propósito de aplicar técnicas de regressão para analisar dados de campanhas de marketing. O objetivo central foi construir um modelo preditivo capaz de estimar o retorno em vendas a partir dos investimentos em publicidade.
+* Este projeto foi elaborado como parte de um desafio no curso de Formação em Ciência de Dados, com o propósito de aplicar técnicas de regressão para analisar dados de campanhas de marketing. 
+O objetivo central foi construir um modelo preditivo capaz de estimar o retorno em vendas a partir dos investimentos em publicidade.
 
 A empresa fictícia utilizada no desafio realiza investimentos mensais em plataformas como YouTube, Facebook e jornais impressos. O desafio consistiu em compreender como esses investimentos influenciam o retorno em vendas, identificar os fatores mais impactantes na geração de leads e criar um modelo preditivo confiável para orientar decisões estratégicas.
 
